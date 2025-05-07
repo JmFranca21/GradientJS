@@ -39,7 +39,10 @@ const COLORS = [
 ];
 ```
 ## 📸 Prévia
-<img alt="Gradient Animation Preview" src="previa.png">
+<a href="https://jmfranca21.github.io/GradientJS/" target="blank">
+   <img alt="Gradient Animation Preview" src="previa.png">
+</a>
+(Clique na imagem.)
 
 ## 🛠️ Tecnologias Utilizadas
 - **`HTML5 Canvas`**: Para renderizar as partículas.
